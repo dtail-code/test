@@ -1,0 +1,1695 @@
+{
+   "type": "FeatureCollection",
+   "features": [
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 4.3802056,46.4995866 ]
+    },
+    "properties": {
+    "FIELD1":"NOM",
+    "FIELD2":"AUFRAND GILBERT",
+    "FIELD3":"PARCELLE",
+    "FIELD4":"AL 89"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 4.3782207,46.5054885 ]
+    },
+    "properties": {
+    "FIELD1":"NOM",
+    "FIELD2":"AUFRAND ROBERT",
+    "FIELD3":"PARCELLE",
+    "FIELD4":"AC 89"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 4.3997551,46.4995802 ]
+    },
+    "properties": {
+    "FIELD1":"NOM",
+    "FIELD2":"BALANDRAS ARMAND",
+    "FIELD3":"PARCELLE",
+    "FIELD4":"Ai 64"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 4.3788509,46.506836 ]
+    },
+    "properties": {
+    "FIELD1":"NOM",
+    "FIELD2":"BALLIGAND CHARLES",
+    "FIELD3":"PARCELLE",
+    "FIELD4":"AC 80"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 4.3728832,46.5188347 ]
+    },
+    "properties": {
+    "FIELD1":"NOM",
+    "FIELD2":"BALLIGAND JACQUELINE",
+    "FIELD3":"PARCELLE",
+    "FIELD4":"AY 26"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 4.37972,46.5068402 ]
+    },
+    "properties": {
+    "FIELD1":"NOM",
+    "FIELD2":"BAR BERNARD",
+    "FIELD3":"PARCELLE",
+    "FIELD4":"AC 75"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 4.35664,46.4955744 ]
+    },
+    "properties": {
+    "FIELD1":"NOM",
+    "FIELD2":"BARCZUK WILLIAM",
+    "FIELD3":"PARCELLE",
+    "FIELD4":"AV 173"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 4.3553781,46.4932615 ]
+    },
+    "properties": {
+    "FIELD1":"NOM",
+    "FIELD2":"BERGER CLAUDE",
+    "FIELD3":"PARCELLE",
+    "FIELD4":"AV 166"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 4.355818,46.4928829 ]
+    },
+    "properties": {
+    "FIELD1":"NOM",
+    "FIELD2":"BERGER GUY",
+    "FIELD3":"PARCELLE",
+    "FIELD4":"AV 168"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 4.3498615,46.4843839 ]
+    },
+    "properties": {
+    "FIELD1":"NOM",
+    "FIELD2":"BERGER SEBASTIEN",
+    "FIELD3":"PARCELLE",
+    "FIELD4":"AT 24"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 4.3969246,46.4985835 ]
+    },
+    "properties": {
+    "FIELD1":"NOM",
+    "FIELD2":"BERGER SEBASTIEN",
+    "FIELD3":"PARCELLE",
+    "FIELD4":"Ai 12"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 4.3815706,46.5206953 ]
+    },
+    "properties": {
+    "FIELD1":"NOM",
+    "FIELD2":"BERTHIER MARC",
+    "FIELD3":"PARCELLE",
+    "FIELD4":"AB 12"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 4.4058632,46.5195979 ]
+    },
+    "properties": {
+    "FIELD1":"NOM",
+    "FIELD2":"BERTRAND ADRIEN",
+    "FIELD3":"PARCELLE",
+    "FIELD4":"AE 46"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 4.356733,46.4959074 ]
+    },
+    "properties": {
+    "FIELD1":"NOM",
+    "FIELD2":"BOURGEON ANDRE",
+    "FIELD3":"PARCELLE",
+    "FIELD4":"AV 164"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 4.4003652,46.4945934 ]
+    },
+    "properties": {
+    "FIELD1":"NOM",
+    "FIELD2":"BOUVIER CLAUDE",
+    "FIELD3":"PARCELLE",
+    "FIELD4":"AK 202"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 4.4115469,46.516868 ]
+    },
+    "properties": {
+    "FIELD1":"NOM",
+    "FIELD2":"BRONDEL OLIVIER",
+    "FIELD3":"PARCELLE",
+    "FIELD4":"AH 102"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 4.3867995,46.5197547 ]
+    },
+    "properties": {
+    "FIELD1":"NOM",
+    "FIELD2":"BUIRON MICHEL",
+    "FIELD3":"PARCELLE",
+    "FIELD4":"AB 54"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 4.3621935,46.4972462 ]
+    },
+    "properties": {
+    "FIELD1":"NOM",
+    "FIELD2":"CAGNIN BRIGITTE",
+    "FIELD3":"PARCELLE",
+    "FIELD4":"AW 92"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 4.4019372,46.5162028 ]
+    },
+    "properties": {
+    "FIELD1":"NOM",
+    "FIELD2":"CARMINATTI GILBERT",
+    "FIELD3":"PARCELLE",
+    "FIELD4":"AE 101"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 4.3872283,46.5130402 ]
+    },
+    "properties": {
+    "FIELD1":"NOM",
+    "FIELD2":"CARON JEAN",
+    "FIELD3":"PARCELLE",
+    "FIELD4":"AC 45"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 4.3777845,46.5069229 ]
+    },
+    "properties": {
+    "FIELD1":"NOM",
+    "FIELD2":"CHABANNES BEATRICE",
+    "FIELD3":"PARCELLE",
+    "FIELD4":"AC 134"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 4.3756765,46.5109025 ]
+    },
+    "properties": {
+    "FIELD1":"NOM",
+    "FIELD2":"CHABANNES LAURENT",
+    "FIELD3":"PARCELLE",
+    "FIELD4":"AY 76"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 4.3958433,46.4861001 ]
+    },
+    "properties": {
+    "FIELD1":"NOM",
+    "FIELD2":"CHAMPON PASCAL",
+    "FIELD3":"PARCELLE",
+    "FIELD4":"AN 49"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 4.4004082,46.4932787 ]
+    },
+    "properties": {
+    "FIELD1":"NOM",
+    "FIELD2":"CHAMPON PASCAL � GITE",
+    "FIELD3":"PARCELLE",
+    "FIELD4":"AK 164"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 4.388701,46.512637 ]
+    },
+    "properties": {
+    "FIELD1":"NOM",
+    "FIELD2":"CHAVET GUY",
+    "FIELD3":"PARCELLE",
+    "FIELD4":"AD 7"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 4.3539565,46.4923341 ]
+    },
+    "properties": {
+    "FIELD1":"NOM",
+    "FIELD2":"CHEVALIER JACQUES",
+    "FIELD3":"PARCELLE",
+    "FIELD4":"AV 112"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 4.3889952,46.513418 ]
+    },
+    "properties": {
+    "FIELD1":"NOM",
+    "FIELD2":"CLEAUD PASCALE",
+    "FIELD3":"PARCELLE",
+    "FIELD4":"AC 137"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 4.4020927,46.4948889 ]
+    },
+    "properties": {
+    "FIELD1":"NOM",
+    "FIELD2":"COCKROFT TIMOTHY",
+    "FIELD3":"PARCELLE",
+    "FIELD4":"AK 148"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 4.3988736,46.4970509 ]
+    },
+    "properties": {
+    "FIELD1":"NOM",
+    "FIELD2":"COMTE DENIS",
+    "FIELD3":"PARCELLE",
+    "FIELD4":"AK 157"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 4.3530409,46.4901857 ]
+    },
+    "properties": {
+    "FIELD1":"NOM",
+    "FIELD2":"CORTIER PHILIPPE",
+    "FIELD3":"PARCELLE",
+    "FIELD4":"AV 80"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 4.3703334,46.503578 ]
+    },
+    "properties": {
+    "FIELD1":"NOM",
+    "FIELD2":"COURNIER CHRISTIAN",
+    "FIELD3":"PARCELLE",
+    "FIELD4":"AX 71"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 4.3713683,46.5010876 ]
+    },
+    "properties": {
+    "FIELD1":"NOM",
+    "FIELD2":"COUVREUR LAURENCE",
+    "FIELD3":"PARCELLE",
+    "FIELD4":"AX 35"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 4.382439,46.4953029 ]
+    },
+    "properties": {
+    "FIELD1":"NOM",
+    "FIELD2":"COVER MURRAY",
+    "FIELD3":"PARCELLE",
+    "FIELD4":"AM 7"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 4.3959604,46.4946147 ]
+    },
+    "properties": {
+    "FIELD1":"NOM",
+    "FIELD2":"DAUVERGNE GILBERT",
+    "FIELD3":"PARCELLE",
+    "FIELD4":"AK 134"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 4.4050438,46.4916344 ]
+    },
+    "properties": {
+    "FIELD1":"NOM",
+    "FIELD2":"DAVIS MICHAEL",
+    "FIELD3":"PARCELLE",
+    "FIELD4":"AK 53"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 4.3950238,46.5075237 ]
+    },
+    "properties": {
+    "FIELD1":"NOM",
+    "FIELD2":"DE BEAUMONT FRANCOISE",
+    "FIELD3":"PARCELLE",
+    "FIELD4":"AD 59"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 4.3945786,46.5063606 ]
+    },
+    "properties": {
+    "FIELD1":"NOM",
+    "FIELD2":"DE BEAUMONT FRANCOISE",
+    "FIELD3":"PARCELLE",
+    "FIELD4":"AD 63"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 4.3915354,46.4929255 ]
+    },
+    "properties": {
+    "FIELD1":"NOM",
+    "FIELD2":"DEDIEU VANESSA",
+    "FIELD3":"PARCELLE",
+    "FIELD4":"AL 48"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 4.3905296,46.4938837 ]
+    },
+    "properties": {
+    "FIELD1":"NOM",
+    "FIELD2":"DEDIEU VANESSA",
+    "FIELD3":"PARCELLE",
+    "FIELD4":"AL 41"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 4.3546415,46.491893 ]
+    },
+    "properties": {
+    "FIELD1":"NOM",
+    "FIELD2":"DELABORDE NICOLE",
+    "FIELD3":"PARCELLE",
+    "FIELD4":"AV 87"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 4.4121775,46.5167081 ]
+    },
+    "properties": {
+    "FIELD1":"NOM",
+    "FIELD2":"DELORME YVONNE",
+    "FIELD3":"PARCELLE",
+    "FIELD4":"AH 121"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 4.378287,46.5051453 ]
+    },
+    "properties": {
+    "FIELD1":"NOM",
+    "FIELD2":"DESMURGER ROBERT",
+    "FIELD3":"PARCELLE",
+    "FIELD4":"AC 91"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 4.3906579,46.5113494 ]
+    },
+    "properties": {
+    "FIELD1":"NOM",
+    "FIELD2":"DEVILLARD JEAN PIERRE",
+    "FIELD3":"PARCELLE",
+    "FIELD4":"AD 89"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 4.3861295,46.512092 ]
+    },
+    "properties": {
+    "FIELD1":"NOM",
+    "FIELD2":"DOUARD GUILLAUME",
+    "FIELD3":"PARCELLE",
+    "FIELD4":"AC 111"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 4.393187,46.5047935 ]
+    },
+    "properties": {
+    "FIELD1":"NOM",
+    "FIELD2":"DRAZEK CHARLOTTE",
+    "FIELD3":"PARCELLE",
+    "FIELD4":"AD 68"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 4.3644868,46.4981184 ]
+    },
+    "properties": {
+    "FIELD1":"NOM",
+    "FIELD2":"DUBOIS GILLES",
+    "FIELD3":"PARCELLE",
+    "FIELD4":"AW 45"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 4.3818918,46.5057508 ]
+    },
+    "properties": {
+    "FIELD1":"NOM",
+    "FIELD2":"DUCERF CYRILLE",
+    "FIELD3":"PARCELLE",
+    "FIELD4":"AC 58"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 4.3558646,46.4941753 ]
+    },
+    "properties": {
+    "FIELD1":"NOM",
+    "FIELD2":"DUFOUR ERIC",
+    "FIELD3":"PARCELLE",
+    "FIELD4":"AV 101"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 4.3683232,46.5009728 ]
+    },
+    "properties": {
+    "FIELD1":"NOM",
+    "FIELD2":"DUSSABLY JEAN LOUIS",
+    "FIELD3":"PARCELLE",
+    "FIELD4":"AX 45"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 4.3627487,46.4975276 ]
+    },
+    "properties": {
+    "FIELD1":"NOM",
+    "FIELD2":"DUSSABLY MARIE",
+    "FIELD3":"PARCELLE",
+    "FIELD4":"AW 79"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 4.3580233,46.4973869 ]
+    },
+    "properties": {
+    "FIELD1":"NOM",
+    "FIELD2":"DUSSABLY MICHEL",
+    "FIELD3":"PARCELLE",
+    "FIELD4":"AV 19"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 4.3993312,46.5199197 ]
+    },
+    "properties": {
+    "FIELD1":"NOM",
+    "FIELD2":"DUSSABLY MICHELLE",
+    "FIELD3":"PARCELLE",
+    "FIELD4":"AE 93"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 4.4138143,46.5137263 ]
+    },
+    "properties": {
+    "FIELD1":"NOM",
+    "FIELD2":"DUSSABLY MICHELLE",
+    "FIELD3":"PARCELLE",
+    "FIELD4":"AH 57"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 4.3568477,46.4964846 ]
+    },
+    "properties": {
+    "FIELD1":"NOM",
+    "FIELD2":"DUSSABLY MONIQUE",
+    "FIELD3":"PARCELLE",
+    "FIELD4":"AV 144"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 4.4087018,46.5161052 ]
+    },
+    "properties": {
+    "FIELD1":"NOM",
+    "FIELD2":"ELIOT JEAN YVES",
+    "FIELD3":"PARCELLE",
+    "FIELD4":"AH 124"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 4.3571381,46.4971912 ]
+    },
+    "properties": {
+    "FIELD1":"NOM",
+    "FIELD2":"EMERY MARIE PIERRE",
+    "FIELD3":"PARCELLE",
+    "FIELD4":"AV 23"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 4.3898412,46.494133 ]
+    },
+    "properties": {
+    "FIELD1":"NOM",
+    "FIELD2":"FAVORY JEAN BATISTE",
+    "FIELD3":"PARCELLE",
+    "FIELD4":"AL 36"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 4.3834046,46.5058099 ]
+    },
+    "properties": {
+    "FIELD1":"NOM",
+    "FIELD2":"FERRAND ANDREE",
+    "FIELD3":"PARCELLE",
+    "FIELD4":"AC 57"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 4.3571789,46.4929862 ]
+    },
+    "properties": {
+    "FIELD1":"NOM",
+    "FIELD2":"FOURNIER JEANNE",
+    "FIELD3":"PARCELLE",
+    "FIELD4":"AV 93"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 4.3803791,46.5070874 ]
+    },
+    "properties": {
+    "FIELD1":"NOM",
+    "FIELD2":"FOURNIER ODILE",
+    "FIELD3":"PARCELLE",
+    "FIELD4":"AC 68"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 4.381409,46.5203483 ]
+    },
+    "properties": {
+    "FIELD1":"NOM",
+    "FIELD2":"FREREJEAN ALINE",
+    "FIELD3":"PARCELLE",
+    "FIELD4":"AB 10"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 4.3602407,46.4952486 ]
+    },
+    "properties": {
+    "FIELD1":"NOM",
+    "FIELD2":"GATILLE SERGE",
+    "FIELD3":"PARCELLE",
+    "FIELD4":"AW 104"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 4.3600874,46.4960762 ]
+    },
+    "properties": {
+    "FIELD1":"NOM",
+    "FIELD2":"GATILLE SERGE",
+    "FIELD3":"PARCELLE",
+    "FIELD4":"AW 105"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 4.3716258,46.4995884 ]
+    },
+    "properties": {
+    "FIELD1":"NOM",
+    "FIELD2":"GEITH FLORIAN",
+    "FIELD3":"PARCELLE",
+    "FIELD4":"AX 37"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 4.3935895,46.5001215 ]
+    },
+    "properties": {
+    "FIELD1":"NOM",
+    "FIELD2":"GONZALEZ RAPHAEL",
+    "FIELD3":"PARCELLE",
+    "FIELD4":"AK 105"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 4.3991421,46.4962813 ]
+    },
+    "properties": {
+    "FIELD1":"NOM",
+    "FIELD2":"GROTH REINER",
+    "FIELD3":"PARCELLE",
+    "FIELD4":"AK 214"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 4.3797576,46.5001643 ]
+    },
+    "properties": {
+    "FIELD1":"NOM",
+    "FIELD2":"GUILLEMIN MARIE GABRIELLE",
+    "FIELD3":"PARCELLE",
+    "FIELD4":"AL 92"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 4.3515147,46.48598 ]
+    },
+    "properties": {
+    "FIELD1":"NOM",
+    "FIELD2":"GUYON FINE ELISE",
+    "FIELD3":"PARCELLE",
+    "FIELD4":"AT 21"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 4.4042391,46.4914498 ]
+    },
+    "properties": {
+    "FIELD1":"NOM",
+    "FIELD2":"HEINEMAN HUBERTUS",
+    "FIELD3":"PARCELLE",
+    "FIELD4":"AK 49"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 4.3568356,46.4927683 ]
+    },
+    "properties": {
+    "FIELD1":"NOM",
+    "FIELD2":"JAMBON JOEL",
+    "FIELD3":"PARCELLE",
+    "FIELD4":"AV 92"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 4.3569367,46.4943985 ]
+    },
+    "properties": {
+    "FIELD1":"NOM",
+    "FIELD2":"JOAQUIM ELISE",
+    "FIELD3":"PARCELLE",
+    "FIELD4":"AV 40"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 4.3868244,46.51305 ]
+    },
+    "properties": {
+    "FIELD1":"NOM",
+    "FIELD2":"KASI CATHARINA",
+    "FIELD3":"PARCELLE",
+    "FIELD4":"AC 46"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 4.3521242,46.4795877 ]
+    },
+    "properties": {
+    "FIELD1":"NOM",
+    "FIELD2":"KUT JEAN PAUL",
+    "FIELD3":"PARCELLE",
+    "FIELD4":"AS 41"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 4.3561881,46.4947636 ]
+    },
+    "properties": {
+    "FIELD1":"NOM",
+    "FIELD2":"LABUSSIERE DOMINIQUE",
+    "FIELD3":"PARCELLE",
+    "FIELD4":"AV 38"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 4.3763327,46.5146509 ]
+    },
+    "properties": {
+    "FIELD1":"NOM",
+    "FIELD2":"LAROCHE FLORIAN",
+    "FIELD3":"PARCELLE",
+    "FIELD4":"AY 71"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 4.387315,46.5233157 ]
+    },
+    "properties": {
+    "FIELD1":"NOM",
+    "FIELD2":"LAROCHE MARIE ANNICK",
+    "FIELD3":"PARCELLE",
+    "FIELD4":"AB 69"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 4.36948,46.5000832 ]
+    },
+    "properties": {
+    "FIELD1":"NOM",
+    "FIELD2":"LAUTISSIER ANNE MARIE",
+    "FIELD3":"PARCELLE",
+    "FIELD4":"AX 40"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 4.4002969,46.4909475 ]
+    },
+    "properties": {
+    "FIELD1":"NOM",
+    "FIELD2":"LEBEAU AUFRAND MICHELE",
+    "FIELD3":"PARCELLE",
+    "FIELD4":"AK 43"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 4.3805086,46.4989494 ]
+    },
+    "properties": {
+    "FIELD1":"NOM",
+    "FIELD2":"LEBEAU AUFRAND MICHELE",
+    "FIELD3":"PARCELLE",
+    "FIELD4":"AL 88"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 4.4008545,46.4941369 ]
+    },
+    "properties": {
+    "FIELD1":"NOM",
+    "FIELD2":"LEBEAU REMI",
+    "FIELD3":"PARCELLE",
+    "FIELD4":"AK 143"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 4.3918979,46.4932694 ]
+    },
+    "properties": {
+    "FIELD1":"NOM",
+    "FIELD2":"LEBEAU YVES",
+    "FIELD3":"PARCELLE",
+    "FIELD4":"AL 46"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 4.3775429,46.5167238 ]
+    },
+    "properties": {
+    "FIELD1":"NOM",
+    "FIELD2":"LEGENDRE PASCALINE",
+    "FIELD3":"PARCELLE",
+    "FIELD4":"AY 61"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 4.3736428,46.4992446 ]
+    },
+    "properties": {
+    "FIELD1":"NOM",
+    "FIELD2":"LEPOINT FRANCOISE",
+    "FIELD3":"PARCELLE",
+    "FIELD4":"AM 44"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 4.3897112,46.5141093 ]
+    },
+    "properties": {
+    "FIELD1":"NOM",
+    "FIELD2":"LEROUGE MANOEL",
+    "FIELD3":"PARCELLE",
+    "FIELD4":"AE 2"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 4.3928756,46.4963638 ]
+    },
+    "properties": {
+    "FIELD1":"NOM",
+    "FIELD2":"LEVITE DANIELE",
+    "FIELD3":"PARCELLE",
+    "FIELD4":"AK 94"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 4.3869746,46.5123744 ]
+    },
+    "properties": {
+    "FIELD1":"NOM",
+    "FIELD2":"LITTNER ARNAUD",
+    "FIELD3":"PARCELLE",
+    "FIELD4":"AC 48"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 4.4118958,46.5159118 ]
+    },
+    "properties": {
+    "FIELD1":"NOM",
+    "FIELD2":"LOUZIER BRUNO",
+    "FIELD3":"PARCELLE",
+    "FIELD4":"AH 118"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 4.3807754,46.5075185 ]
+    },
+    "properties": {
+    "FIELD1":"NOM",
+    "FIELD2":"MAIRIE DE MORNAY",
+    "FIELD3":"PARCELLE",
+    "FIELD4":"AC 71"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 4.3790219,46.5059381 ]
+    },
+    "properties": {
+    "FIELD1":"NOM",
+    "FIELD2":"MAIRIE DE MORNAY",
+    "FIELD3":"PARCELLE",
+    "FIELD4":"AC 66"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 4.4117206,46.5181309 ]
+    },
+    "properties": {
+    "FIELD1":"NOM",
+    "FIELD2":"MANSON REYNALD",
+    "FIELD3":"PARCELLE",
+    "FIELD4":"AH 27"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 4.3935985,46.5190196 ]
+    },
+    "properties": {
+    "FIELD1":"NOM",
+    "FIELD2":"MARQUES DOS SANTOS JULIEN",
+    "FIELD3":"PARCELLE",
+    "FIELD4":"AE 22"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 4.4134323,46.5176954 ]
+    },
+    "properties": {
+    "FIELD1":"NOM",
+    "FIELD2":"MARTINS JOELLE",
+    "FIELD3":"PARCELLE",
+    "FIELD4":"AH 96"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 4.412815,46.5178504 ]
+    },
+    "properties": {
+    "FIELD1":"NOM",
+    "FIELD2":"MARTINS JOELLE",
+    "FIELD3":"PARCELLE",
+    "FIELD4":"AH 28"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 4.3815056,46.5063194 ]
+    },
+    "properties": {
+    "FIELD1":"NOM",
+    "FIELD2":"MASCART JEAN BERNARD",
+    "FIELD3":"PARCELLE",
+    "FIELD4":"AC 61"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 4.3930513,46.5177867 ]
+    },
+    "properties": {
+    "FIELD1":"NOM",
+    "FIELD2":"MASSON MARCEL",
+    "FIELD3":"PARCELLE",
+    "FIELD4":"AE 15"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 4.3530167,46.4837342 ]
+    },
+    "properties": {
+    "FIELD1":"NOM",
+    "FIELD2":"METROP DANIELLE",
+    "FIELD3":"PARCELLE",
+    "FIELD4":"AT 16"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 4.3953843,46.4944283 ]
+    },
+    "properties": {
+    "FIELD1":"NOM",
+    "FIELD2":"MONIN Eric",
+    "FIELD3":"PARCELLE",
+    "FIELD4":"AK 218"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 4.3579246,46.4935512 ]
+    },
+    "properties": {
+    "FIELD1":"NOM",
+    "FIELD2":"MORESTIN ANDRE",
+    "FIELD3":"PARCELLE",
+    "FIELD4":"AV 98"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 4.3574632,46.4931265 ]
+    },
+    "properties": {
+    "FIELD1":"NOM",
+    "FIELD2":"MORESTIN COLETTE",
+    "FIELD3":"PARCELLE",
+    "FIELD4":"AV 94"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 4.3885142,46.5131792 ]
+    },
+    "properties": {
+    "FIELD1":"NOM",
+    "FIELD2":"MOSSER SYLVIE",
+    "FIELD3":"PARCELLE",
+    "FIELD4":"AC 43"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 4.3785123,46.5060489 ]
+    },
+    "properties": {
+    "FIELD1":"NOM",
+    "FIELD2":"MUGNIER MARIE CLAUDE",
+    "FIELD3":"PARCELLE",
+    "FIELD4":"AC 86"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 4.3798863,46.4998504 ]
+    },
+    "properties": {
+    "FIELD1":"NOM",
+    "FIELD2":"ORFEVRE ROGER",
+    "FIELD3":"PARCELLE",
+    "FIELD4":"AL 91"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 4.3568629,46.4962535 ]
+    },
+    "properties": {
+    "FIELD1":"NOM",
+    "FIELD2":"PAGET GUY",
+    "FIELD3":"PARCELLE",
+    "FIELD4":"AV 143"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 4.3820581,46.520304 ]
+    },
+    "properties": {
+    "FIELD1":"NOM",
+    "FIELD2":"PANNEBIAU COLLETTE",
+    "FIELD3":"PARCELLE",
+    "FIELD4":"AB 68"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 4.37892,46.5064329 ]
+    },
+    "properties": {
+    "FIELD1":"NOM",
+    "FIELD2":"PARIAT MAURICE",
+    "FIELD3":"PARCELLE",
+    "FIELD4":"AC 78"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 4.3957924,46.4992298 ]
+    },
+    "properties": {
+    "FIELD1":"NOM",
+    "FIELD2":"PASSA CLAUDINE",
+    "FIELD3":"PARCELLE",
+    "FIELD4":"Ai 7"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 4.3614715,46.4963488 ]
+    },
+    "properties": {
+    "FIELD1":"NOM",
+    "FIELD2":"PERRET ALAIN",
+    "FIELD3":"PARCELLE",
+    "FIELD4":"AW 83"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 4.3700218,46.5039752 ]
+    },
+    "properties": {
+    "FIELD1":"NOM",
+    "FIELD2":"PERROT Fabrice",
+    "FIELD3":"PARCELLE",
+    "FIELD4":"AX 24"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 4.3901122,46.5123189 ]
+    },
+    "properties": {
+    "FIELD1":"NOM",
+    "FIELD2":"PICARD DAVID",
+    "FIELD3":"PARCELLE",
+    "FIELD4":"AD 95"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 4.3794188,46.5060157 ]
+    },
+    "properties": {
+    "FIELD1":"NOM",
+    "FIELD2":"POMMERAY JEAN MARC",
+    "FIELD3":"PARCELLE",
+    "FIELD4":"AC 67"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 4.3547182,46.4923825 ]
+    },
+    "properties": {
+    "FIELD1":"NOM",
+    "FIELD2":"PONSARD JACQUES",
+    "FIELD3":"PARCELLE",
+    "FIELD4":"AV 169"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 4.3982586,46.4975725 ]
+    },
+    "properties": {
+    "FIELD1":"NOM",
+    "FIELD2":"POOLE DOMINIQUE",
+    "FIELD3":"PARCELLE",
+    "FIELD4":"AK 195"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 4.3892614,46.5145806 ]
+    },
+    "properties": {
+    "FIELD1":"NOM",
+    "FIELD2":"RABIAN JACQUES",
+    "FIELD3":"PARCELLE",
+    "FIELD4":"AC 39"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 4.3921456,46.4927528 ]
+    },
+    "properties": {
+    "FIELD1":"NOM",
+    "FIELD2":"RACINE ROBERT",
+    "FIELD3":"PARCELLE",
+    "FIELD4":"AK 187"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 4.372645,46.4999241 ]
+    },
+    "properties": {
+    "FIELD1":"NOM",
+    "FIELD2":"ROBERJOT MONIQUE",
+    "FIELD3":"PARCELLE",
+    "FIELD4":"AM 60"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 4.4003645,46.4941401 ]
+    },
+    "properties": {
+    "FIELD1":"NOM",
+    "FIELD2":"ROBERJOT PASCAL",
+    "FIELD3":"PARCELLE",
+    "FIELD4":"AK 209"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 4.3955943,46.4990008 ]
+    },
+    "properties": {
+    "FIELD1":"NOM",
+    "FIELD2":"TARASCON Jimmy",
+    "FIELD3":"PARCELLE",
+    "FIELD4":"AK 110"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 4.3619382,46.4969958 ]
+    },
+    "properties": {
+    "FIELD1":"NOM",
+    "FIELD2":"TAYLOR THOMAS",
+    "FIELD3":"PARCELLE",
+    "FIELD4":"AW 106"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 4.3557589,46.493616 ]
+    },
+    "properties": {
+    "FIELD1":"NOM",
+    "FIELD2":"TILLIER ODETTE",
+    "FIELD3":"PARCELLE",
+    "FIELD4":"AV 106"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 4.3553191,46.4938302 ]
+    },
+    "properties": {
+    "FIELD1":"NOM",
+    "FIELD2":"TILLIER PIERRE",
+    "FIELD3":"PARCELLE",
+    "FIELD4":"AV 120"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 4.390345,46.5132664 ]
+    },
+    "properties": {
+    "FIELD1":"NOM",
+    "FIELD2":"TOUILLON PIERRE",
+    "FIELD3":"PARCELLE",
+    "FIELD4":"AD 20"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 4.3675936,46.500478 ]
+    },
+    "properties": {
+    "FIELD1":"NOM",
+    "FIELD2":"URBANI SANDRINE",
+    "FIELD3":"PARCELLE",
+    "FIELD4":"AW 40"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 4.3883034,46.5125422 ]
+    },
+    "properties": {
+    "FIELD1":"NOM",
+    "FIELD2":"VALANCE MAURICETTE",
+    "FIELD3":"PARCELLE",
+    "FIELD4":"AD 6"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 4.4075137,46.518741 ]
+    },
+    "properties": {
+    "FIELD1":"NOM",
+    "FIELD2":"VAN DER AA DIRK SIMON  2 habitations",
+    "FIELD3":"PARCELLE",
+    "FIELD4":"AH 113"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 4.3888505,46.5130701 ]
+    },
+    "properties": {
+    "FIELD1":"NOM",
+    "FIELD2":"VAN HOVE MARTINE",
+    "FIELD3":"PARCELLE",
+    "FIELD4":"AC 42"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 4.4137458,46.5181358 ]
+    },
+    "properties": {
+    "FIELD1":"NOM",
+    "FIELD2":"VIDAL JOCELYNE",
+    "FIELD3":"PARCELLE",
+    "FIELD4":"AH 98"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 4.361247,46.4965565 ]
+    },
+    "properties": {
+    "FIELD1":"NOM",
+    "FIELD2":"VILOTTE LAURE",
+    "FIELD3":"PARCELLE",
+    "FIELD4":"AW 84"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 4.3686128,46.5005075 ]
+    },
+    "properties": {
+    "FIELD1":"NOM",
+    "FIELD2":"VRIELING DERK",
+    "FIELD3":"PARCELLE",
+    "FIELD4":"AX 43"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 4.3948109,46.5190787 ]
+    },
+    "properties": {
+    "FIELD1":"NOM",
+    "FIELD2":"WEBB STEPHEN",
+    "FIELD3":"PARCELLE",
+    "FIELD4":"AE 20"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 4.4139403,46.5158654 ]
+    },
+    "properties": {
+    "FIELD1":"NOM",
+    "FIELD2":"WOUTERS KAREL",
+    "FIELD3":"PARCELLE",
+    "FIELD4":"AH 39"
+    }
+  }
+]
+}
